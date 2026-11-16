@@ -1,0 +1,22 @@
+# Keep all real targets, evidence, credentials, course files and binaries local.
+oscp-work/targets/
+oscp-work/evidence/
+/private/
+/downloads/
+*.ovpn
+*.kubeconfig
+*.pcap
+*.pcapng
+*.iso
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.pem
+*.key
+*pull-secret*
+*auth.json
+*.pdf
+__pycache__/
+*.pyc
+.venv/

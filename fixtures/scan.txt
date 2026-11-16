@@ -1,0 +1,7 @@
+# Invented Nmap-style output for interpretation only. No host was scanned.
+Nmap scan report for 192.0.2.10
+Host is up.
+PORT    STATE SERVICE VERSION
+22/tcp  open  ssh     OpenSSH 9.2p1
+80/tcp  open  http    nginx 1.22.1
+445/tcp open  microsoft-ds Samba smbd 4.17

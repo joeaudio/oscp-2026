@@ -1,0 +1,9 @@
+# Invented host observations. Do not treat as a real compromise.
+$ id
+uid=1001(trainee) gid=1001(trainee) groups=1001(trainee),1100(operators)
+$ cat /etc/crontab | tail -1
+* * * * * root /opt/backup/run.sh
+$ stat -c '%U %G %A %n' /opt/backup/run.sh
+root operators -rwxrwxr-x /opt/backup/run.sh
+$ sudo -l
+Sorry, user trainee may not run sudo on labhost.

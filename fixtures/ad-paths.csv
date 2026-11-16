@@ -1,0 +1,8 @@
+source,relation,destination,evidence
+student,MemberOf,Helpdesk,verified
+Helpdesk,CanRDP,WS1,verified
+WS1,HasSession,svc-backup,unverified
+svc-backup,AdminTo,DC1,unverified
+student,CanReadSPN,svc-web,verified
+svc-web,AdminTo,APP1,unverified
+APP1,CanReach,DC1,verified

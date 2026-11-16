@@ -1,0 +1,9 @@
+# Invented Windows observations. ACLs and exploitability are unverified.
+whoami: LAB\trainee
+TaskName: \Ops\Nightly
+Run As User: SYSTEM
+Task To Run: C:\Ops\job.cmd
+Service: DemoService
+StartName: LocalSystem
+PathName: C:\Program Files\Demo App\service.exe
+State: Running

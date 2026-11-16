@@ -1,0 +1,8 @@
+python3
+curl
+nmap
+dnsutils
+smbclient
+netcat-openbsd
+openssh-client
+git
