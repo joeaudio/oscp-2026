@@ -12,10 +12,9 @@ Updated 17 November 2026 (Australia/Sydney).
   equivalent command for `tools/` after cloning.
 - Learner's actual target performance is **not demonstrated**. Do not infer
   exam readiness from this pack or from a passing local unit test.
-- Local Git history exists and `origin` points to `joeaudio/oscp-2026`.
-  The unauthenticated upload attempt returned “Repository not found”; GitHub
-  CLI has no login, and the available SSH key is not authorized by GitHub.
-  Publication is pending account authentication and destination access.
+- Published at `https://github.com/joeaudio/oscp-2026` on `main`.
+  The public remote and pushed commit were verified without authentication.
+  No credential file or token was added to Git.
 
 ## Next learner action
 
