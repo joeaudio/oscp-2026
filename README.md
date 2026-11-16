@@ -19,6 +19,8 @@ course content or a replacement for PEN-200 labs.
 5. Draft a report with [lab-report/template.md](lab-report/template.md).
    Use [exam-report/template.md](exam-report/template.md) as a practice layout;
    recheck OffSec's live requirements before any real exam.
+6. Finish the [timed capstones](CAPSTONES.md) and score only work you actually
+   demonstrated with [ASSESSMENT.md](ASSESSMENT.md).
 
 ## Layout
 

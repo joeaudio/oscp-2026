@@ -3,7 +3,7 @@
 Updated 17 November 2026 (Australia/Sydney).
 
 - Public study pack drafted for delivery by 19 December 2026: 15 original
-  lessons, dated plan, synthetic fixtures, loopback web lab, report/target
+  lessons, timed capstones, dated plan, synthetic fixtures, loopback web lab, report/target
   templates, setup instructions and a staged-file guard.
 - The supplied `oscp-master.zip` was inspected for folder structure only.
   No third-party course, VPN, auth, target or report content was copied.
